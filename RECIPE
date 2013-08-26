@@ -1,0 +1,3 @@
+cmsrel CMSSW_5_3_5
+cd CMSW_5_3_5/src
+git cms-addpkg L1Trigger/RegionalCaloTrigger
